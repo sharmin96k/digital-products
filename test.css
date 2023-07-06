@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: skyblue;
+}
+.test{
+    color: blueviolet;
+    cursor: pointer;
+    
+}
+.box{
+    padding: 20px;
+    background-color: chocolate;
+    width: 120px;
+    height: 120px;
+}
+.box2{
+    background-color: aqua;
+}
+.box3{
+    background-color: purple;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+
+}
